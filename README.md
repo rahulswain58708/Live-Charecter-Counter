@@ -15,7 +15,7 @@ This widget shows how many characters are left, warns the user when the limit is
 - CSS
 - JavaScript (Input Event + DOM Manipulation)
 
-## Live :-
+## Live :- https://live-charecter-counter.vercel.app/
 
 ## 📜 Code Snippet
 ```js
